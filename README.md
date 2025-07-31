@@ -1,12 +1,58 @@
-# React + Vite
+# ✅ ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient **To-Do List Application** built with **HTML**, **CSS**, and **JavaScript**. This app helps users manage their daily tasks by allowing them to add, complete, and delete tasks with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ➕ Add New Tasks
+- ✅ Mark Tasks as Completed
+- ❌ Delete Tasks
+- 💾 Data Persistence via Local Storage
+- 🧼 Clean and Responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Layer     | Technology       |
+|----------|------------------|
+| Frontend | HTML, CSS         |
+| Logic    | JavaScript (Vanilla) |
+| Storage  | Browser Local Storage |
+
+---
+
+## 📂 Project Structure
+
+TODO-APP/
+│
+├── index.html # Main HTML structure
+├── style.css # CSS for styling the UI
+├── script.js # JavaScript functionality
+└── README.md
+
+
+---
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Debanjan83/TODO-APP.git
+
+2. Open the App
+
+Open index.html in your browser.
+
+That’s it! You’re ready to start adding tasks.
+
+🤝 Contribution
+Want to enhance the app or fix a bug?
+Contributions are welcome! Fork the repository and submit a pull request.
+
+👤 Author
+Debanjan Pal
+📧 debanjanpal79611@gmail.com
+🌐 GitHub
